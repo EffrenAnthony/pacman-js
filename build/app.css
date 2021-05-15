@@ -110,7 +110,7 @@ body {
     height: 66%; } }
 
 .loading-cover {
-  background: #ffdf00;
+  background: #203D29;
   height: 100vh;
   position: absolute;
   top: 0;
@@ -160,7 +160,7 @@ body {
 
 .loading-container {
   background-color: #000;
-  border: 5px solid #2121ff;
+  border: 5px solid #203D29;
   border-radius: 10px;
   height: 48px;
   left: 50%;
@@ -278,9 +278,9 @@ body {
     margin-bottom: -3px; }
   .movement-buttons button {
     background: transparent;
-    border: 3px solid #2121ff;
+    border: 3px solid #203D29;
     border-radius: 5px;
-    color: #2121ff;
+    color: #203D29;
     height: 7vh;
     outline: none;
     padding: 0;
